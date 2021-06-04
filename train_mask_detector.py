@@ -27,7 +27,7 @@ EPOCHS = 25
 BS = 32
 
 DIRECTORY = r"C:\Users\USERZZZ\OneDrive - 365.um.edu.my\Degree Life\Sem06_2021\WIX3001 Soft Computing\Individual Assignment\Repo - balaji\Face-Mask-Detection\dataset"
-CATEGORIES = ["with_mask", "without_mask"]
+CATEGORIES = ["correct_mask", "incorrect_mask"]
 
 # grab the list of images in our dataset directory, then initialize
 # the list of data (i.e., images) and class images
